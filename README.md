@@ -1,6 +1,6 @@
 # Awesome-CRM-Customization-Extensibility
 
-# Top CRM Customization & Extensibility Ecosystem
+## Top CRM Customization & Extensibility Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Platform Extension, Workflow Automation & Low-Code Customization*  
