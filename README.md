@@ -82,9 +82,9 @@ The global CRM and workflow integration ecosystem is valued at over **$85B–$12
 
 These self-hostable projects empower teams to build custom CRM tooling, execute bidirectional data pipelines, automate events, and build low-code interfaces without vendor lock-in or recurring per-task costs.
 
-*Repositories are sorted in descending order by GitHub Stars ⭐.*
+*Repositories are sorted in descending order by GitHub_Stars ⭐.*
 
-| Project | ⭐ Stars Badge | 🛠️ Tech Stack / License | 📝 Description & Extensibility Features |
+| Project | ⭐ Stars_Badge | 🛠️ Tech Stack / License | 📝 Description & Extensibility Features |
 |:---|:---|:---|:---|
 | **[n8n](https://github.com/n8n-io/n8n)** | [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) | TypeScript / Fair-Code (Sustainable Use) | **Premier workflow automation platform.** Visual node editor with 400+ native integrations, custom JS/Python code execution nodes, AI agent tool nodes, and self-hosted Docker deployment. |
 | **[NocoDB](https://github.com/nocodb/nocodb)** | [![Stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers) | Node.js, Vue / AGPLv3 | **Open-source Airtable alternative.** Transforms any relational database (PostgreSQL, MySQL, SQL Server) into a collaborative smart spreadsheet with REST APIs, webhook triggers, and CRM interfaces. |
